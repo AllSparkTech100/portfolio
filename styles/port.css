@@ -153,4 +153,10 @@
 .back-to-top.active {
   visibility: visible;
   opacity: 1;
+}
+
+@media screen and (max-width: 320px) {
+  .logoo {
+    width: 175px;
+  }
 }/*# sourceMappingURL=port.css.map */
